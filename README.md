@@ -1,13 +1,13 @@
 # PortofolioSetup1
 ## Project Name
-> This is my firest part of a continues website development project which depend on a very good website calld figma.
+> This is my first part of successive website development project which depend on a very good website called figma.
 
 
 
 ## Built With
 
 - html,css
-- git and git hub
+- git and github
 
 
 
